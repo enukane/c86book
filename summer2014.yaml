@@ -1,0 +1,26 @@
+bookname: summer2014
+booktitle: "キャプチャリング 802.11"
+subtitle: "ひたすら収集するお話"
+language: ja
+aut: \@n\_kane
+prt: Glenda9
+prt_url: http://github.com/enukane/c86book
+date: 2014-08-17
+rights: (C) enukane
+description: Summer 2014, C86 book
+
+# タイトルページは別に印刷するので不要 (coverpage.pdf)
+titlepage: false
+# 奥付生成
+colophon: true
+pubhistory: 2014年 8月 17日 第一版発行
+
+toclevel: 3
+secnolevel: 3
+stylesheet: test.css
+texstyle: summer2014
+texdocumentclass: ["jsbook", "a4j,openany"]
+mytoc: true
+
+
+params: --stylesheet=test.css --footnotetext --chapterlink --subdirmode
