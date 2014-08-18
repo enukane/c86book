@@ -7,7 +7,6 @@ REFILES = 00abstract.re \
 	  02tools.re \
 	  03devices.re \
 	  04inpractice.re \
-	  05futurework.re \
 	  99concl.re
 
 # command
